@@ -4,7 +4,8 @@
 ### About me
 I am a Computer teacher by profession. I am also a students of MSCS 1st semester.
 
-### My Hobbies
--Art
--Photography & Videography
--Writing
+### Hobbies
+- Art
+- Pgotography & Videography
+- Writing
+- Reading Novels
